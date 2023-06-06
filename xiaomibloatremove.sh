@@ -7,6 +7,7 @@ pm uninstall -k --user 0 com.xiaomi.glgm
 pm uninstall -k --user 0 com.xiaomi.mipicks 
 pm uninstall -k --user 0 com.android.hotwordenrollment.xgoogle 
 pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle 
+pm uninstall -k --user 0 com.google.android.apps.googleassistant
 pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 pm uninstall -k --user 0 com.xiaomi.payment  
 pm uninstall -k --user 0 com.miui.msa.global
